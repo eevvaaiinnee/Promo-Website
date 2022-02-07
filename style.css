@@ -1,0 +1,65 @@
+* {
+  background-image: url('https://www.constellation-guide.com/wp-content/uploads/2014/07/Alpha-Centauri-in-the-sky.jpg');
+  box-sizing: border-box;
+}
+
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:visited {
+  color: #c0c0c0;
+}
+
+h1 {
+  font-family: 'Russo One', sans-serif;
+  color: #c0c0c0;
+  text-align: center;
+  margin: 10px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+h3 {
+  font-family: 'Play', sans-serif;
+  color: #c0c0c0;
+  margin: 3px;
+  padding: 3px;
+}
+
+.menuu {
+  width: 100%;
+  height: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+img {
+  width: 20%;
+  height: 20%;
+}
+
+img:hover {
+  width: 25%;
+  height: 25%;
+}
+
+.imagee {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+
+#quotee {
+  font-family: 'Dancing Script', cursive;
+  font-size: 300%;
+  color: #c0c0c0;
+  text-align: center;
+}
