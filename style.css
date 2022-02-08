@@ -17,7 +17,7 @@ h1 {
   font-family: 'Russo One', sans-serif;
   color: #c0c0c0;
   text-align: center;
-  margin: 10px;
+  margin: 0px;
   position: fixed;
   top: 0;
   left: 0;
@@ -54,12 +54,22 @@ img:hover {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+}
 
+.textt {
+  background-image: url('https://i.makeagif.com/media/9-26-2016/zItb_O.gif');
+}
+
+#regularr {
+  font-family: 'Play', sans-serif;
+  font-size: 200%;
+  color: #c0c0c0;
+  text-align: center;
 }
 
 #quotee {
   font-family: 'Dancing Script', cursive;
-  font-size: 300%;
+  font-size: 200%;
   color: #c0c0c0;
   text-align: center;
 }
